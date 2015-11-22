@@ -1,7 +1,4 @@
 # hello-world
-test test test
-
-
 blah
 
 this is great
